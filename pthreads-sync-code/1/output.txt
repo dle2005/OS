@@ -1,0 +1,15 @@
+Produced 0 by master 0
+Produced 1 by master 0
+Produced 2 by master 0
+Consumed 2 by worker 2
+Produced 3 by master 0
+Consumed 3 by worker 2
+Produced 4 by master 0
+Consumed 4 by worker 4
+Consumed 1 by worker 4
+master 0 joined
+Produced 5 by master 1
+master 1 joined
+worker 0 joined
+worker 1 joined
+worker 2 joined
